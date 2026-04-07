@@ -107,6 +107,7 @@ fichero `algebra/vectores.py`:
 vectores.py: modulo hecho para el manejo de vectores 
 programa hecho por martina vermiglio mas 
 
+'''python
 tests unitarios globales:
 >>> from algebra.vectores import Vector
 >>> v1 = Vector([1, 2, 3])
