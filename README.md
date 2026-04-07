@@ -103,7 +103,7 @@ fichero `algebra/vectores.py`:
 
 #### Código desarrollado
 
-'''python
+```python
 """
 vectores.py: modulo hecho para el manejo de vectores 
 programa hecho por martina vermiglio mas 
